@@ -63,8 +63,7 @@ You can test the script by running the the script which automatically sends a de
 
 
 ### Directory Structure
-
-    ```plaintext
+    ```
     ├── message-broker.py   # Main Python script containing send and receive functions
     ├── requirements.txt    # List of Python dependencies
     ├── Dockerfile          # Docker configuration file (optional)
